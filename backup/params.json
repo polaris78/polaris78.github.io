@@ -1,6 +1,0 @@
-{
-  "name": "소개 페이지 테스트용",
-  "tagline": "",
-  "body": "# 내 세상\r\n## 부제목\r\n\r\n상세한 설명\r\n\r\n```ruby\r\nputs \"hello world!\"\r\nputs \"hi\"\r\n```\r\n\r\n수정 가능",
-  "note": "Don't delete this file! It's used internally to help with page regeneration."
-}
